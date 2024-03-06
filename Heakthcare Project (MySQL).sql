@@ -115,11 +115,6 @@ select avg(`PY2020_Payment_Reduction_Percentage`)
 from   dialysis2;
 
 
-select * from dialysis2;
-
-select TPS from dialysis2
-where TPS =
-
 
 
 
